@@ -1,5 +1,5 @@
-import requests
-from bs4 import BeautifulSoup
-from colorama import Fore, Style, Back
-import random
-import time
+pip install requests
+
+pip install beautifulsoup4
+
+pip install colorama
